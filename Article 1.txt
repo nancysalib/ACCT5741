@@ -1,0 +1,136 @@
+Costco: Finding A Fair Price
+Dec. 07, 2022 9:13 AM ETCostco Wholesale Corporation (COST)BRK.A, BRK.B4 Comments
+Summary
+Costco has absolutely soared the past 5 years, up 172%.
+Costco has been the most resilient retailer in the sector, with insatiable appetite for its shares by the market.
+The stock has been overvalued for some time, is it on its way back to reality?
+Costco Wholesale
+YvanDube
+
+One of the original Nomad Winners
+Costco (NASDAQ:COST) is a company that stands out to me as one of the epitomes of excellence. It also resonates dearly because it was one of the winners that drove Nick Sleep and Qais Zakaria's Nomad fund into the history books. If you are unaware of the Nomad Fund, here is a good synopsis. Along with Amazon (AMZN), Costco was one of the most mentioned stocks in the entire collection of annual letters. I watch this stock closely, waiting for a pullback that never happens. Below is an example from the Nomad letters on what makes Costco an excellent business.
+
+From the Nomad letters:
+
+At Costco Wholesale there is no need to fix the business which is performing well already. Costco is one half of the wholesale club warehouse duopoly (with Sam's Club) and had annual revenues of U $35bn in 2001. The retail concept is as follows: customers pay an annual membership fee (standard U$45) which provides entry to the stores for a year, and in exchange Costco operates an every-day-low-pricing strategy (EDLP) by marking up 14% on branded goods and 15% on private label with the result that prices are very, very low. This is a very simple and honest consumer proposition in the sense that the membership fee buys the customer's loyalty (and is almost all profit) and Costco in exchange sells goods whilst just covering operating costs.
+
+The markup standard has still kept true from 2001 onwards to today. The moat that Costco possesses is one of the best in the market. Even with a bit of a pullback, the price is not there yet and is a hold, let's analyze and find a suitable price to pounce.
+
+Berkshire Hathaway exit
+Charlie Munger admired Costco, but acknowledged it flew too close to the sun:
+
+"I've always believed that nothing was worth an infinite price. So even an admirable place like Costco could get to a price where you would say that's too high," furthermore, "But I would argue that, if I were investing money for some sovereign wealth fund or some pension fund, and I had a 30-, 40-, 50-year time horizon, I would buy Costco at the current price," he added. "I think it's that strong an enterprise and that admirable a place."
+
+This is an admirable stance and one that I like to take when evaluating companies. If it's of high quality, I tend to hold if I happen to own it and only buy outsized allocations when it meets my standards for value. If you have a long horizon, anything with a large moat that engages in price givebacks to consumers, creating more and more loyalty is worth holding even if the ratios get too lofty. Contrary to the common belief that high margins are the only thing to look for in a good investment, low margins and economies of scale are equally as compelling of an investment.
+
+Now even though Berkshire (BRK.B)(BRK.A), jettisoned the holding, as Munger said, if you have at least a multi-decade time horizon, holding Costco even at this valuation will still most likely result in good returns.
+
+Balance sheet trends
+balance sheet trends for Costco
+seeking alpha
+
+One of the first aspects I look for in financial strength and trends floating in the right direction is an increase in current assets. Harkening back to the advice of Peter Lynch, an increase in current assets combined with a decreasing debt trend are good places to start when looking for positive future stories. With current assets increasing from $20.289 Billion in 2018 to $32.696 Billion at current, the trend is upward at a CAGR of 10% per annum. One check.
+
+seeking alpha costco liabilities
+Costco Liabilities (seeking alpha)
+
+Total liabilities for the past 5 years are also trending upwards. 5 years ago in 2018, the company had $27.727 in total liabilities, at the end of 2022, that number is up to $43.519 Billion (please note, this amount includes capital leases). That's a growth rate of 9.43% per year, nearly in line with their increase in current assets. This also includes current debt which is essentially used to purchase and turnover inventory, this amount increasing yoy is a positive trend showing more demand for the products they sell. Long-term debt is somewhat static tracking around $10 Billion per year. Normally the increasing debt trends would be negative, but if we take out the short-term debt used on inventory and capital leases, the debt simply reflects growth in warehouses. Where does the money go? Let's look at tangible assets and PPE trends:
+
+seeking alpha ppe from balance sheet
+Costco PPE (seeking alpha)
+
+The past 5 years have seen net Property Plant & Equipment increase from $19.681 Billion in 2018 to $29.040 Billion in 2022, an increase of 8% per annum. The trend lines are fairly clear, Costco grows current assets, debt, and property or store expansions at somewhere between 8-10% per year. Normally I would see increasing cash and current assets combined with increasing debt as a defensive "bracing" position. But in this case, there are no obvious spikes, this is a consistent business plan that Costco executes year after year. They can confidently expand the empire at about 8% per year, borrow an extra 9% per year and increase current assets at around 10% per year. The consistency is very "moat-worthy" indeed.
+
+Income statement trends
+seeking alpha revenue
+seeking alpha
+
+Looking into gross profit trends for the trailing 5 years, we start with $18.424 Billion in 2018 growing to $27.572 Billion TTM. That's a CAGR of 8.4%. Wow, I'm starting to see a trend here.
+
+seeking alpha eps trends
+seeking alpha
+
+As for the EPS trends, if we start 5 years ago at $7.15 a share and end up at TTM $13.17, we get a CAGR of 12.98%. All these fall fairly close to 10% plus or minus 1-2%. Again, the consistency to grow along with inflation and not have any peaks or valleys in debt, assets, profit, or income trends is a good indication of a moat. Being able to borrow and engage in new capital leases effectively while growing gross profit and earnings.
+
+Peg valuation based on EBIT
+Trading at 10 X book value, Costco certainly wouldn't be worth a value look on a Graham number basis, that incorporates both assets and earnings. The high value the market puts on assets is certainly a reflection of the quality of the business. I can quickly see on a basic PEG ratio basis looking at a trailing 5 years EPS growth of 12.9% and a current P/E ratio of 37 trailing and 33 forward, that there certainly wouldn't be value there either. However, in companies with wide moats and lots of tax benefits or depreciation, let's look at a modified PEG ratio based on EBIT. I'm using EBIT instead of EBITDA here because the depreciation of a store and equipment are certainly real costs. Costco in every city I've been to is like a zoo, maintenance costs must have at least some correlation with foot traffic.
+
+seeking alpha supplemental earnings on Costco
+seeking alpha
+
+Doing a modified PEG ratio for EBIT we need to figure out a couple of items. The trailing 5 years' CAGR of EBIT and the EBIT per share. At a TTM EBIT of $7.793 Billion and 442 million shares outstanding, we get an EBIT per share of $17.63. This will be our multiplicand. A PEG ratio simply finds value where a P/E divided by its CAGR in various earnings metrics, dropping the percent sign, hits a value of 1 or less. We can get a quick price target by finding our desired per-share earnings metric as a multiplicand and using the CAGR in that earnings metric as our multiplier. Most analysts use forward earnings estimates. I stick to Peter Lynch's example where he uses the trailing 5 years rather than engaging in future fortune-telling.
+
+In this case, EBIT 5 years ago was $4.48 Billion and ends up at $7.793 Billion TTM. This is a CAGR of 11.7%. This is a slightly slower growth rate than EPS but a higher multiplicand of $17.63 a share versus $13.17 a share. Thus we have 11.7 X 17.63= $206.27 a share fair value. At $481, you can see how far away this is from fair. You certainly need to hold this for a long time to grow into the valuation. However, with the consistency of its growth, this is a bet many are willing to take.
+
+The Costco story up to here
+costco 10K warehouse summary
+Costco 10K
+
+With a total of 838 Warehouse properties, Costco is a brick-and-mortar-centric retail business. Specializing in wholesaling bulk products offered at low margins, Costco's business is aimed directly at in-person clientele versus e-commerce. Although Costco, like Walmart, Target (TGT), and other retailers are expanding their e-commerce, bulk items are best purchased in person due to the weight and size of the items.
+
+Costco also operates gas stations that enhance foot traffic:
+
+We believe our gasoline business enhances traffic in our warehouses, but it generally has a lower gross margin percentage relative to our non-gasoline business. It also has lower SG&A expenses as a percent of net sales compared to our non-gasoline business. A higher penetration of gasoline sales will generally lower our gross margin percentage. Rapidly changing gasoline prices may significantly impact our near-term net sales growth. Generally, rising gasoline prices benefit net sales growth which, given the higher sales base, negatively impacts our gross margin percentage but decreases our SG&A expenses as a percentage of net sales. A decline in gasoline prices has the inverse effect. -Costco 2022 10K
+
+I don't know about your Costco, but mine has wrap-around lines daily for a perceived discount on gasoline prices. The problem is I probably burn more gas value waiting in line than the money I save buying it at Costco! All jokes aside, regardless of the margins, the gas station and tire centers certainly bring in business. Every time I'm there to change my tires, I walk around the store endlessly for an hour buying stuff I don't need. Genius. Not me of course, Costco.
+
+Outside of the US, Costco is also expanding its warehouse footprint abroad.
+
+Here are the highlights for 2021 vs 2022:
+
+Highlights for 2022 versus 2021 include:
+
+•We opened 26 new warehouses, including 3 relocations: 14 net new in the U.S., 2 net new in our Canadian segment, and 7 new in our Other International segment, compared to 22 new warehouses, including 2 relocations in 2021;
+
+•Net sales increased 16% to $222,730 driven by a 14% increase in comparable sales and sales at new warehouses opened in 2021 and 2022;
+
+•Membership fee revenue increased 9% to $4,224, driven by new member sign-ups, upgrades to Executive membership, and an increase in our renewal rate;
+
+•Gross margin percentage decreased 65 basis points, driven primarily by our core merchandise categories and a LIFO charge for higher merchandise costs;
+
+•SG&A expenses as a percentage of net sales decreased 77 basis points, primarily due to leveraging increased sales and ceasing of incremental wages related to COVID-19, despite additional wage and benefits increases;
+
+•We incurred a one-time $77 pretax charge, primarily related to granting our employees one additional day of paid time off in March 2022;
+
+•The effective tax rate in 2022 was 24.6% compared to 24.0% in 2021;
+
+•Net income increased 17% to $5,844, or $13.14 per diluted share compared to $5,007, or $11.27 per diluted share in 2021;
+
+•In June 2022, the Company paid a cash dividend of $208 and purchased the remaining equity interest of its Taiwan operations from its former joint-venture partner for $842, totaling $1,050 in the aggregate; and
+
+•In April 2022, the Board of Directors approved an increase in the quarterly cash dividend from $0.79 to $0.90 per share.
+
+Debt and the dividend
+yahoo finance balance sheet summary
+yahoo finance
+
+At a total long-term debt-to-equity ratio of 52.82% and a current ratio of 1 mrq, there is nothing of concern here. The $10 Billion in long-term debt and capital leases is fairly static for the past few years. The upwards trends in debt tend to be in current debt indicating an expansion of products for sale to the end user.
+
+yahoo finance costco free cash flow trends
+yahoo finance
+
+The forward annual dividend is a mere .73 %, or $3.6 a share. With a TTM free cash flow of $3.5 Billion and a forward dividend liability of: 442 million shares X $3.6 = $1.591 Billion. The dividend is covered 2.199 X. While it's doubtful that investors buy Costco for the dividend, it's safe and covered nonetheless.
+
+Risks
+Cost of capital and market saturation. At a certain point, the cost of capital for all businesses will creep up to a point where the IRR for a new project, store, or expansion doesn't pencil out. Costco and similar retailers who consistently borrow more and more every year to expand may need to slow that expansion. While this may preserve the bottom line if Costco turns to share buybacks rather than expansions to maintain consistent EPS growth, the signal to the market will probably be seen negatively. Another year or so of increasing interest rates may result in revenue slowdowns in this sector as expansion becomes unfeasible.
+
+Catalysts
+Extra profit in the Kirkland products:
+
+We sell many products under our Kirkland Signature brand. Maintaining consistent product quality, competitive pricing, and availability of these products is essential to developing and maintaining member loyalty. These products also generally carry higher margins than national brand products and represent a growing portion of our overall sales. If the Kirkland Signature brand experiences a loss of member acceptance or confidence, our sales and gross margin results could be adversely affected.
+
+While I have no way to confirm that Costco was attempting to increase margins on Kirkland store brand products circa 2000-2001 when the Nomad letters were being produced, this is one area where profit growth can outperform. The normal 14-15% markup on competitive goods is one thing, but if Costco can continue to produce high-quality products that are similar to name-brand ones, slightly cheaper but with much higher margins, we could see some outperformance to the norm in the future. From personal experience, they line up Kirkland items right next to the name brand with an obvious price disparity. If belts start to tighten in the economy, store-brand products may begin to represent a larger and larger portion of the consumer budget.
+
+Memberships are also a nice part of the Costco profit model:
+
+costco membership fees
+statista.com
+
+Growing from $3.14 Billion in 2018 to about $4 Billion recently, the amount of money made on memberships is staggering. Representing almost 80% of Costco's profit, increases in memberships yoy are always a nice catalyst.
+
+Conclusion
+Costco will retain its' moat and can confidently expand knowing that consumers crave its' prices. Some buyers have had other recommendations on how to increase profits, but Costco isn't known to budge:
+
+One buyer recommended taking a higher gross margin than was usual (i.e., more than the usual 14% mark-up) as no one would know. Apparently Sinegal insisted on the standard mark up, arguing that if "I let you do it this time, you will do it again". The contract with the customer (very low prices) must not be broken.
+
+The ethos is clear and Costco probably leaves a lot of dollars on the table. Although they have a moat, there are enough similarities with Walmart (WMT) to know that Costco does not have a monopoly. The huge premium Costco demands might insist that shareholders expect margins to be increased at some point. In this case, you might be waiting a long time. Costco is overpriced but fine to hold with long time horizons. If it touches prices $300 or below I would start a larger position. Would place very large bets in the lower $200s. For me, buying even in the $300s is allocating a huge premium to the market multiple on a GAAP and non-GAAP earnings and is very liberal. My time horizon is long, but the price is still paramount. We need a correction in price or a static price until Costco grows into its' valuation. In the static case, I'll be waiting a few years before I buy.
